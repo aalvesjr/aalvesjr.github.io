@@ -1,0 +1,57 @@
+body { 
+  margin: 20px 10%;
+}
+table {
+  border-width: 0;
+  width: 100%;
+}
+.center {
+  text-align: center;
+}
+.little {
+  font-size: 14px;
+  margin: none;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0 0 0;
+}
+.vertical-text {
+  transform: rotate(270deg);
+  white-space: nowrap;
+  margin: 0px;
+  padding: 0;
+  float: left;
+}
+.right-text {
+  text-align: right;
+  vertical-align: top;
+  white-space: nowrap;
+}
+.header {
+  min-height: 180px;
+}
+.header img{
+  margin: 10px;
+  float: right;
+  width: 160px;
+}
+.table-title {
+  background-color: #C3C3C3;
+  width: 42px
+}
+.light-gray {
+  background-color: #F2F2F2;
+}
+.small {
+  font-size: 0.7em;
+}
+.second-column {
+  width: 120px
+}
+.badges img {
+  float: none;
+  max-height: 40px;
+  max-width: 40px;
+  vertical-align: middle;
+}
