@@ -30,10 +30,12 @@ h1 {
 }
 .header {
   min-height: 180px;
+  text-align: center;
 }
 .header img{
+  border-radius: 50%;
   margin: 10px;
-  float: right;
+  float: left;
   width: 160px;
 }
 .table-title {
@@ -50,6 +52,7 @@ h1 {
   width: 120px
 }
 .badges img {
+  border-radius: 0;
   float: none;
   max-height: 40px;
   max-width: 40px;
